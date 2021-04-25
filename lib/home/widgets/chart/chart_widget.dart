@@ -12,7 +12,7 @@ class ChartWidget extends StatelessWidget {
         children: [
           Center(
             child: Container(
-              height: 70,
+              height: 65,
               width: 80,
               child: CircularProgressIndicator(
                 strokeWidth: 10,
